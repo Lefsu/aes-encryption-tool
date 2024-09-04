@@ -19,7 +19,7 @@ This is a simple AES (Advanced Encryption Standard) Encryption/Decryption GUI ap
 
 #### Prerequisites
 
-- **Python 3.x**: Ensure that Python 3.x is installed on your system.
+- **Python 3**: Ensure that Python 3 is installed on your system.
 - **Required Libraries**: You need to install the following Python libraries:
   - `tkinter`: For creating the GUI. Usually included with Python.
   - `pycryptodome`: For cryptographic functions. Install it via pip:
@@ -33,7 +33,7 @@ This is a simple AES (Advanced Encryption Standard) Encryption/Decryption GUI ap
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/aes-encryption-tool.git
+   git clone https://github.com/Lefsu/aes-encryption-tool.git
    cd aes-encryption-tool
    ```
 
@@ -95,4 +95,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 #### Contact
 
-For any questions or suggestions, feel free to contact me on discord at Lefsu.
+For any questions or suggestions, feel free to contact me on discord at lefsu.
